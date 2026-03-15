@@ -3,7 +3,7 @@ Rust製の超軽量PDF ビューア・編集ツール。Acrobatの1/140（※当
 余計な機能を省いたすっきりとした UI で、PDF を素早く開いて閲覧・編集できます。
 
 ### 🚀 Windows版 (Microsoft Store)
-Windowsでご利用の方は、フル機能・サポート対応の製品版をストアから入手いただけます。
+Windowsでご利用の方は、ストアから入手いただけます。
 [Microsoft Store で手に入れる](https://apps.microsoft.com/detail/9nls0g7kx7ln?hl=ja-JP&gl=JP)
 
 ### 🐧 Linux版 (GitHub Release)

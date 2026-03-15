@@ -2,8 +2,13 @@
 Rust製の超軽量PDF ビューア・編集ツール。Acrobatの1/140（※当社調べ）のメモリで動作します。
 余計な機能を省いたすっきりとした UI で、PDF を素早く開いて閲覧・編集できます。
 
-### 📥 ダウンロード (Linux AppImage版)
-[最新版 v0.6.3 をダウンロード](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asuka_pdf-0.6.3-x86_64.AppImage)
+### 🚀 Windows版 (Microsoft Store)
+Windowsでご利用の方は、フル機能・サポート対応の製品版をストアから入手いただけます。
+[Microsoft Store で手に入れる](https://apps.microsoft.com/detail/9nls0g7kx7ln?hl=ja-JP&gl=JP)
+
+### 🐧 Linux版 (GitHub Release)
+Linux (x86_64) 環境の方は、こちらから AppImage 版を無料でご利用いただけます。
+[最新の AppImage をダウンロード](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asuka_pdf-0.6.3-x86_64.AppImage)
 
 ![asuka_pdf スクリーンショット](https://github.com/user-attachments/assets/2e40bf5d-fc2b-41db-8d46-56a5391b9e9c)
 

@@ -1,19 +1,19 @@
 # asuka_pdf
 Rust製の超軽量PDF ビューア・編集ツール。
-当社の測定環境（Windows 11 / 32GB RAM）において、
-Acrobat と比較して 約 1/40〜1/100 のメモリ使用量で動作することを確認しています。
-余計な機能を省いたすっきりとした UI で、PDF を素早く開いて閲覧・編集できます。
+当社の測定環境（Windows 11 / 32GB RAM）において、Acrobatと比較して **約1/40〜1/100のメモリ使用量** で動作することを確認しています。余計な機能を省いたすっきりとしたUIで、PDFを素早く開いて閲覧・編集できます。
 
-### 🚀 Windows版 (無料インストーラー版)
-[最新の 無料インストーラー版 をダウンロード](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asukaPDF-0.6.3-Windows-Setup.exe)
+### 📥 ダウンロード
 
-### 🚀 Windows版 (Microsoft Store有料版)
-Windowsでご利用の方は、ストアからも安心のMicrosoft認証済のStore版（有料）も入手いただけます。
-[Microsoft Store で手に入れる](https://apps.microsoft.com/detail/9nls0g7kx7ln?hl=ja-JP&gl=JP)
+#### 🚀 Windows版
+* **[無料インストーラー版 (.exe)](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asukaPDF-0.6.3-Windows-Setup.exe)
+　最新のインストーラーをGitHubから直接ダウンロードできます。
 
-### 🐧 Linux版 (GitHub Release)
-Linux (x86_64) 環境の方は、こちらから AppImage 版を無料でご利用いただけます。
-[最新の AppImage をダウンロード](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asuka_pdf-0.6.3-Linux-x86_64.AppImage)
+* **[Microsoft Store 有料版 (推奨)](https://apps.microsoft.com/detail/9nls0g7kx7ln?hl=ja-JP&gl=JP)
+　安心のMicrosoft認証済み。自動アップデートに対応しており、開発の応援にもなります。
+
+#### 🐧 Linux版
+* **[AppImage版 (無料)](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asuka_pdf-0.6.3-Linux-x86_64.AppImage)
+　x86_64環境向け。インストール不要で、ダウンロードしてすぐに実行可能です。
 
 ![asuka_pdf スクリーンショット](https://github.com/user-attachments/assets/2e40bf5d-fc2b-41db-8d46-56a5391b9e9c)
 

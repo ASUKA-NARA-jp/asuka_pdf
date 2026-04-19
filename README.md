@@ -12,8 +12,11 @@ Rust製の超軽量PDF ビューア・編集ツール。
 　安心のMicrosoft認証済み。自動アップデートに対応しており、開発の応援にもなります。
 
 #### 🐧 Linux版
-* **[AppImage版 (無料)](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/download/v0.6.3/asuka_pdf-0.6.3-Linux-x86_64.AppImage)
-　x86_64環境向け。インストール不要で、ダウンロードしてすぐに実行可能です。
+* **[インストール版 (無料)](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/latest)
+　UbuntuやDebianをご利用の方はこちら。OSにしっかりインストールして利用できます。
+* **[AppImage版 (無料)](https://github.com/ASUKA-NARA-jp/asuka_pdf/releases/latest)
+　インストール不要。ダウンロードして実行権限を与えるだけで、すぐにお試しいただけます。
+
 
 ![asuka_pdf スクリーンショット](https://github.com/user-attachments/assets/2e40bf5d-fc2b-41db-8d46-56a5391b9e9c)
 
